@@ -1027,3 +1027,13 @@
 2438	2539	1675321773835606829	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/.bin_timestamp	d7bad29408b6569c
 2539	2573	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5549f240f41ad1c8
 2539	2573	0	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/esp-idf/esptool_py/CMakeFiles/app_check_size	5549f240f41ad1c8
+12	46	0	esp-idf/esptool_py/CMakeFiles/app_check_size	5549f240f41ad1c8
+12	46	0	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/esp-idf/esptool_py/CMakeFiles/app_check_size	5549f240f41ad1c8
+11	57	1675317789043587569	bootloader-prefix/src/bootloader-stamp/bootloader-build	d9dc0ed9b934b448
+11	57	1675317789043587569	bootloader/bootloader.elf	d9dc0ed9b934b448
+11	57	1675317789043587569	bootloader/bootloader.bin	d9dc0ed9b934b448
+11	57	1675317789043587569	bootloader/bootloader.map	d9dc0ed9b934b448
+11	57	1675317789043587569	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	d9dc0ed9b934b448
+11	57	1675317789043587569	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/bootloader/bootloader.elf	d9dc0ed9b934b448
+11	57	1675317789043587569	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/bootloader/bootloader.bin	d9dc0ed9b934b448
+11	57	1675317789043587569	/home/training/Desktop/RTOS_SAHIL_12/Question_02/build/bootloader/bootloader.map	d9dc0ed9b934b448
